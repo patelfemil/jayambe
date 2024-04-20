@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901527608018",
+    "project_id": "jayambe-mandap",
+    "storage_bucket": "jayambe-mandap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901527608018:android:2374b606a28e5ab863ab0b",
+        "android_client_info": {
+          "package_name": "com.admore.jayambemandap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5zjbPjnmylvJWN5Utsd7c5bAApLLhHIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
